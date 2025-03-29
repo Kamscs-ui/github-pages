@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Vérité Absolue</title>
+	<style>
+	  body {
+            font-family:Arial Nova, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color:#3D1C02;
+            color: white;
+            padding: 20px;
+        }
+	    header img {
+			 width: 90px; /* Ajuste la taille de l'image */
+            vertical-align: middle;
+		}
+	footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            position:relative;/* Fixe le problème sur mobile */
+            bottom: 0;
+            width: 100%;
+        }
+	</style>
+</head>
+<body>
+<header><h1><em>Le CORAN</em> <img src="https://wallpapercave.com/wp/o92XFJQ.jpg" alt="Le coran ouvert sur " ></h1></header>
+<p> Le <strong>Coran</strong> est parfait, inaltérable et la parole divine absolue.<br> Il est décrit comme "Al-Kitab" (Le Livre) et "Al-Furqan" (Le Discernement),<br> et il est dit dans plusieurs versets qu’il est protégé de toute altération :<br>
+
+<strong>"En vérité, c’est Nous qui avons fait descendre le Coran, et c’est Nous qui en sommes gardiens."
+<a href="https://quran.com/15/9" target="_blank">(Sourate 15, Al-Hijr, verset 9)</a></strong><br>
+
+Les musulmans croient que le Coran est la parole d’Allah révélée au Prophète Muhammad ﷺ <br>par l’ange Jibril (Gabriel), et qu’il constitue une guidance parfaite pour l’humanité.</p>
+ <p>Le Coran est un miracle en lui-même en raison de sa beauté linguistique, de sa cohérence<br> et de son impact. Il contient aussi des miracles scientifiques, historiques et prophétiques<br> qui ont intrigué les chercheurs et les croyants. Voici quelques-uns des miracles souvent cités :</p>
+
+<footer><p>&copy;Mon site 2025</p></footer>
+</body>
+</html>
